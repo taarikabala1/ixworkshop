@@ -1,1 +1,3 @@
 Hello World! My name is Taarika. I am studying data science!
+
+I like watching movies.
